@@ -12,14 +12,7 @@ Some notes:
 ### Example
 Here's an example classification of fake news, as would appear in your Facebook feed:
 <img src="/res/real_classification.png" width="1000"> 
-<hr />
-### Contributions
-This was a great and challenging project, and we plan on taking this further. Of course, this couldn't have been completed without the rest of team _SlickBits_: 
-* **Shyam** ([@gopshyam](https://github.com/gopshyam))
-* **Anand** ([@Andyrocks143](https://github.com/Andyrocks143))
-* **Giridhar** ([@mgiridhar](https://github.com/mgiridhar)).
 
-These guys have talent and persistence.
 <hr />
 This work is under a Non-commercial Creative Commons license under the group SlickBits. If you use any part of this code, please add attribution to our team.
 
