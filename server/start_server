@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Run local server
+python src/server.py
